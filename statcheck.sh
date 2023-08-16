@@ -1,3 +1,4 @@
 #this checks disk usage 
-df -h
-#new file line has been added
+df -h >../diskusage.txt 
+#this check process 
+top
